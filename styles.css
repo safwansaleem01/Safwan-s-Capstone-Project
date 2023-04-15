@@ -1,0 +1,268 @@
+p{
+    color: #5c6c75;
+    font-weight: 500;
+  }  
+    
+    /* Purchase Button in navbar */
+  
+  .purchase{
+  background-color: #0aad0a;
+   color: #fff; 
+   border:1px solid #0aad0a;
+  }
+  
+              /* fresh cart div for navbar and html template */
+  
+  .fresh-cart{
+      background-image: url(https://freshcart.codescandy.com/assets/images/overview/light-patten.svg);
+      background-position: center;
+      background-size: cover;
+      background-attachment: fixed;
+      background-color: rgb(240,243,242);
+  }
+  
+  .Freshcart-heading{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 1 rem;
+  }
+  
+  .FreshCart-text{
+    text-align: center;
+  }
+  
+            /* Landing image in fresh cart template */
+  
+  .landing-img-1{
+      width: 70%;
+      display: block;
+      margin: auto;
+  }
+  
+          /* Home Pages  */
+  
+  .home-pages{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .heading{
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+  .text{
+    margin-bottom: 50px;
+  }
+  
+  .homepage-muted{
+    font-size: 15px;
+    color: #5c6c75;
+  }
+                /* Home Page Cards */
+  
+  .home-page-row{
+    width: 82%;
+    margin: auto;
+    justify-content: space-between;
+  }
+  
+  .home-page-column{
+    background-color: lightgrey;
+    width: 32%;
+    padding: 0;
+  }
+  .home-page-image-div{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 355px;
+  }
+  
+  .home-page-image{
+    width: 75%;
+  }
+  
+  .homepage-heading{
+      margin-top: 25px;
+      margin-bottom: 0;
+      text-align: center;
+      margin-bottom: 50px;
+      font-size: 20px;
+  }
+  
+         /* Home Page Coming Soon  */
+  
+  .home-page-text{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 100px;
+  }
+  
+              /* Features */
+  
+  .features{
+      margin-top: 100px;
+      margin-left: 100px;
+      margin-bottom: 20px;
+  }
+  
+  /* Features Row */
+  
+  .features-row{
+    display: flex;
+  }
+  
+            /* For feature 1 and 3 */
+  
+  .feature-img-1-div{
+    margin-left: 200px;
+    margin-top: 50px;
+  }
+  
+  .features-column-2{
+        margin: 0;
+        margin-top: 220px;
+  }
+  
+          /* For feature 2 and 4 */
+  
+  .feature-img-4-div{
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  .feature-column-2{
+    margin-top: 250px;
+    margin-left: 250px;
+  }
+  
+      /* Shop Pages  */
+  
+  .shop-pages{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .heading{
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+  .text{
+    margin-bottom: 50px;
+  }
+  
+  .shoppage-muted{
+    font-size: 15px;
+    color: #5c6c75;
+  }    
+  
+      /* Shop Page Cards */
+  
+  .shop-page-row{
+    width: 82%;
+    margin: auto;
+    justify-content: space-between;
+  }
+  
+  .shop-page-column{
+    background-color: lightgrey;
+    width: 32%;
+    padding: 0;
+    margin-bottom: 25px;
+  }
+  .shop-page-image-div{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 355px;
+  }
+  
+  .shop-page-image{
+    width: 75%;
+  }
+  
+  .shoppage-heading{
+      margin-top: 25px;
+      margin-bottom: 0;
+      text-align: center;
+      margin-bottom: 50px;
+      font-size: 20px;
+  }
+  
+      /* Multi Vendors  */
+  
+  .shop-pages{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .heading{
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+  .text{
+    margin-bottom: 50px;
+  }
+  
+  .shoppage-muted{
+    font-size: 15px;
+    color: #5c6c75;
+  }    
+  
+  /* Awesome Feature Cards */
+  
+  .awesome-row{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+  }
+  
+  .awesome-column{
+    margin-bottom: 30px;  
+  }
+  
+      /* Awesome Images */
+  
+  .bi{
+    color: #0aad0a;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Purchase Freshcart */
+  
+  .purchase-freshcart{
+    height: 400px;
+    background-color: lightgrey ;
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .purchase-freshcart h1{
+    padding-top: 80px;
+    font-size: 30px;
+  }
+  
+  .copyright{
+    margin-top: 80px;
+    font-size: 15px;
+  }
+  
+  .codescandy{
+    text-decoration: none;
+    color: #0aad0a;
+  }
+  
+  .deals-coupons{
+    background-color: lightgray;
+  }
+  
+  /* Home Page 1  */

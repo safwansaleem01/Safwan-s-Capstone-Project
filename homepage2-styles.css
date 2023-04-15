@@ -1,0 +1,54 @@
+.freshcart-download{
+    background-color: lightgrey;
+}
+
+.ad-banner-1{
+    background-image: url('images/ad-banner-1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.ad-banner-2{
+    background-image: url('images/ad-banner-2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.ad-banner-3{
+    background-image: url('images/ad-banner-3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.mega{
+    width: 800px;
+}
+
+.card{
+    width: 150px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.card-product{
+    width: 250px;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+.radio-inline{
+    accent-color: green;
+}
+
+.feature-heading{
+    font-size: 17px;
+}
+.feature-text{
+    font-size: 14px;
+}
+
+.footer{
+    background-color: lightgrey;
+    margin-top: 50px;
+    font-size: 0.8rem;
+}
